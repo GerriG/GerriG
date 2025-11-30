@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola, soy Gerardo Martínez!</h1>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHdvdDhyYXQ1Z2dzaW5jdDF5ZHNoa2d5N25jYjhybXg2bGEwMTVjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/p6ZVGS8zQbQIqH8G6l/giphy.gif" width="250px" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWp3YzV0NW03YjV0MTFoOTQ0dG8xYmM3cmwxejhuOHV1eGxvbmoyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5Y8HMhd0fo8hbskv7i/giphy.gif" width="250px" />
 </p>
 
 ---
