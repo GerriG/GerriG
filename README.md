@@ -10,12 +10,12 @@
 
 - 🧍‍♂️ **Nombre:** Gerardo Martínez  
 - 🗺️ **Origen:** 🇸🇻 El Salvador  
-- 🎂 **Edad:** 20 años  
+- 🎂 **Edad:** 21 años  
 - 🎓 **Estudios:** Ingeniería en Sistemas @ Universidad Tecnológica de El Salvador  
 - 🧭 **Ciclo actual:** Quinto ciclo (3° año)  
 - 🦊 **Dato curioso:** ¡Me encantan los zorros!  
 - 💡 **Intereses:** Programación, desarrollo de software, tecnología, diseño de interfaces  
-- 📚 **Actualmente aprendiendo:** Java (Programación 3)  
+- 📚 **Actualmente aprendiendo:** Assembly (Lenguaje de máquina)  
 - 📫 **Contacto:** [gerardomartinez07291@gmail.com](mailto:gerardomartinez07291@gmail.com)  
 
 ---
@@ -32,6 +32,7 @@
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly_x64-%23141414.svg?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,13 +41,12 @@
 </div>
 
 ---
-
 ## 📌 Actualmente trabajando en...
 
-- 🛠️ Una aplicación de biblioteca con interfaz gráfica en Java  
-- 🎨 Interfaz personalizada para el rol **Secretario**
-- 💽 Integración con base de datos y funciones CRUD
-
+- 🛡️ **Virus Removal Tool (VRT)**: Herramienta de seguridad y aniquilación de archivos.
+- ⚙️ Motor de bajo nivel desarrollado completamente en **Assembly x64 (MASM)**.
+- 🎨 Interfaz gráfica en **C# (WPF)** con integración nativa de Windows 11 y compilación AOT.
+  
 ---
 
 <p align="center">
