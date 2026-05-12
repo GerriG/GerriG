@@ -12,7 +12,7 @@
 - 🗺️ **Origen:** 🇸🇻 El Salvador  
 - 🎂 **Edad:** 21 años  
 - 🎓 **Estudios:** Ingeniería en Sistemas @ Universidad Tecnológica de El Salvador  
-- 🧭 **Ciclo actual:** Quinto ciclo (3° año)  
+- 🧭 **Ciclo actual:** Séptimo ciclo (4° año)  
 - 🦊 **Dato curioso:** ¡Me encantan los zorros!  
 - 💡 **Intereses:** Programación, desarrollo de software, tecnología, diseño de interfaces  
 - 📚 **Actualmente aprendiendo:** Assembly (Lenguaje de máquina)  
