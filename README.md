@@ -23,11 +23,9 @@
 <!--- - 🦊 **Dato curioso:** ¡Me encantan los zorros!  --->
 ---
 
-## 🚀 Habilidades y herramientas
+## 🧰 Tecnologías y herramientas</h2>
 
 <div align="center">
-
-<h2>🧰 Tecnologías y herramientas</h2>
 
 <!-- Lenguajes de programación -->
 <h3>💻 Lenguajes de programación</h3>
